@@ -495,7 +495,7 @@
             </div>
             <div class="text-center py-4">
               <h5 class="text-truncate">Bima</h5>
-              <p class="m-0">Backend</p>
+              <p class="m-0">Apk Javascript</p>
             </div>
           </div>
         </div>
